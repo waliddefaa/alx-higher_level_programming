@@ -10,8 +10,6 @@ else:
 if number < 0:
     output = -output
 
-
-
 if output > 6:
     print(f"Last digit of {number} is {output} and is greater than 5")
 elif output < 5:
